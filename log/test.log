@@ -1,0 +1,157 @@
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"toto"}
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"toto"}
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"toto"}
+Completed 404 Not Found in 218ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.5ms)[0m  [1m[36mbegin transaction[0m
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"toto"}
+Completed 404 Not Found in 139ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"toto"}
+Completed 404 Not Found in 128ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"toto"}
+Completed 404 Not Found in 135ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"toto"}
+Completed 404 Not Found in 131ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"toto"}
+Completed 404 Not Found in 129ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"toto"}
+Completed 404 Not Found in 136ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"toto"}
+Completed 404 Not Found in 132ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"toto"}
+Completed 404 Not Found in 130ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"toto"}
+Completed 404 Not Found in 126ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 137ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 135ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 203ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 133ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 125ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 127ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 145ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 130ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 134ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 135ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 129ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 133ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 136ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 134ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 500 Internal Server Error in 118ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 129ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 133ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 135ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 130ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 145ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 168ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 131ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 191ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 131ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 136ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 131ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 131ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 243ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 246ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 252ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 243ms (ActiveRecord: 0.0ms)
+Processing by V1::FestivalsController#show as HTML
+  Parameters: {"festival_name"=>"Festival inconnu"}
+Completed 404 Not Found in 246ms (ActiveRecord: 0.0ms)
